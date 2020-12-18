@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Atom Ffp SASS Compiler",
+          "submenu": [
+            {
+              "label": "Compile and Upload",
+              "command": "atom-ftp-sass-compiler:compile"
+            },
+            {
+              "label": "Edit Setup",
+              "command": "atom-ftp-sass-compiler:editSetup"
+            },
+            {
+              "label": "Setup",
+              "command": "atom-ftp-sass-compiler:setup"
+            },
+            {
+              "label": "Toggle",
+              "command": "atom-ftp-sass-compiler:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

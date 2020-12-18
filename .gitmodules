@@ -1,0 +1,3 @@
+[submodule "ftp-sass-compiler"]
+	path = ftp-sass-compiler
+	url = ./lib/ftp-sass-compiler

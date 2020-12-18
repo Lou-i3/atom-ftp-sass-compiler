@@ -5,7 +5,7 @@
   "description": "Compile SASS to CSS from ftp",
   "keywords": [
   ],
-  "repository": "https://github.com/lou-i3/atom-ftp-sass-compiler",
+  "repository": "https://github.com/lou-i3/atom-ftp-sass-compiler.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

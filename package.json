@@ -11,7 +11,7 @@
   },
   "bugs": {
     "url": "https://github.com/lou-i3/atom-ftp-sass-compiler/issues"
-  }
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

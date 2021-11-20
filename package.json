@@ -1,7 +1,7 @@
 {
     "name": "atom-ftp-sass-compiler",
     "main": "./lib/atom-ftp-sass-compiler",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "description": "Compile SASS to CSS from ftp",
     "keywords": [],
     "repository": {
